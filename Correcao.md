@@ -27,7 +27,3 @@
 - [ ] Adicionar mais filtros para seleção de dados
 
 ## Pontos A Melhorar
-
-Deveria haver uma pasta de assets para a imagem de background.
-
-As respostas das requisições **não podem** retornar any!
